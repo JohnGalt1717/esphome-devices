@@ -8,7 +8,7 @@ standard: global
 ## Notes
 
 * push button wall switch
-* 2 way bought here: <https://amzn.to/3stsGDw>
+* 2 way bought here: <https://amzn.to/3stsGDw> (Model# SS02S)
 * 3 way bought here: <https://amzn.to/3cs4R9u>
 * this dude shows how to flash it: <https://www.digiblur.com/2020/01/tuya-convert-23-update-flash-tuya.html>
 * unlike the 3 way switch, the 2 way switch does not have a power sense pin. To solve this issue, and allow the smart switch to be smart, this code turns the White LED on when the light is off and, led off when the light is on. This allows the LEDs pin state to be used as a power sense, to determine whether to turn the relay on or off.
